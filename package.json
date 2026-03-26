@@ -1,6 +1,6 @@
 {
   "name": "houtini-lm",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "MCP server that saves Claude Code tokens by delegating bounded tasks to local or cloud LLMs. Works with LM Studio, Ollama, vLLM, DeepSeek, Groq, Cerebras.",
   "main": "src/index.ts",
   "scripts": {
